@@ -1,4 +1,5 @@
 Step 1: Convert your pic using Nature.py
+
 Step 2: Impose both the original and generated pic using Imposing.py
 
 Result: 
